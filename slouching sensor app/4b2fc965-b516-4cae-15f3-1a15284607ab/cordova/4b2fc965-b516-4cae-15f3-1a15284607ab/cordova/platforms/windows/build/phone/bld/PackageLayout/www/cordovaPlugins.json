@@ -1,0 +1,5 @@
+﻿{
+  "org.apache.cordova.console": "*",
+  "com.msopentech.websql": "*",
+  "org.apache.cordova.inappbrowser": "*"
+}

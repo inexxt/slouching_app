@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Jacek\Desktop\slouching sensor app\a140d1ef-4616-475d-437d-6d700cae320f\cordova\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_0.0.1.0_Bundle\CordovaApp.Phone_0.0.1.0_anycpu_debug.appx
+ResourcePack=C:\Users\Jacek\Desktop\slouching sensor app\a140d1ef-4616-475d-437d-6d700cae320f\cordova\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_0.0.1.0_Bundle\CordovaApp.Phone_0.0.1.0_scale-100.appx

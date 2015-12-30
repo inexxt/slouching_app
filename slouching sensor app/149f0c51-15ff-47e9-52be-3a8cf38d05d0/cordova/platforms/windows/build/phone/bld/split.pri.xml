@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="com.app.oovd" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://com.app.oovd/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://com.app.oovd/Files/images/SplashScreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://com.app.oovd/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://com.app.oovd/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://com.app.oovd/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://com.app.oovd/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://com.app.oovd/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://com.app.oovd/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://com.app.oovd/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://com.app.oovd/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://com.app.oovd/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="browser.js" uri="ms-resource://com.app.oovd/Files/www/browser.js">
+					<Candidate type="Path">
+						<Value>www\browser.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="browsers.html" uri="ms-resource://com.app.oovd/Files/www/browsers.html">
+					<Candidate type="Path">
+						<Value>www\browsers.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova.js" uri="ms-resource://com.app.oovd/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordovaPlugins.json" uri="ms-resource://com.app.oovd/Files/www/cordovaPlugins.json">
+					<Candidate type="Path">
+						<Value>www\cordovaPlugins.json</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://com.app.oovd/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.css" uri="ms-resource://com.app.oovd/Files/www/default.css">
+					<Candidate type="Path">
+						<Value>www\default.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="error.html" uri="ms-resource://com.app.oovd/Files/www/error.html">
+					<Candidate type="Path">
+						<Value>www\error.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://com.app.oovd/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="precompiled.js" uri="ms-resource://com.app.oovd/Files/www/precompiled.js">
+					<Candidate type="Path">
+						<Value>www\precompiled.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="runtime.js" uri="ms-resource://com.app.oovd/Files/www/runtime.js">
+					<Candidate type="Path">
+						<Value>www\runtime.js</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="art">
+					<NamedResource name="l0_lpvzsF7aqnl2s2wh" uri="ms-resource://com.app.oovd/Files/www/art/l0_lpvzsF7aqnl2s2wh">
+						<Candidate type="Path">
+							<Value>www\art\l0_lpvzsF7aqnl2s2wh</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="l0_wOARSK4PZpC75Eqh" uri="ms-resource://com.app.oovd/Files/www/art/l0_wOARSK4PZpC75Eqh">
+						<Candidate type="Path">
+							<Value>www\art\l0_wOARSK4PZpC75Eqh</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="l0_wOARSK4PZpC75Eqh.m4a" uri="ms-resource://com.app.oovd/Files/www/art/l0_wOARSK4PZpC75Eqh.m4a">
+						<Candidate type="Path">
+							<Value>www\art\l0_wOARSK4PZpC75Eqh.m4a</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="l0_xy8Omp3E9EeBppJL" uri="ms-resource://com.app.oovd/Files/www/art/l0_xy8Omp3E9EeBppJL">
+						<Candidate type="Path">
+							<Value>www\art\l0_xy8Omp3E9EeBppJL</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="index.css" uri="ms-resource://com.app.oovd/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="img">
+					<NamedResource name="logo.png" uri="ms-resource://com.app.oovd/Files/www/img/logo.png">
+						<Candidate type="Path">
+							<Value>www\img\logo.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="index.js" uri="ms-resource://com.app.oovd/Files/www/js/index.js">
+						<Candidate type="Path">
+							<Value>www\js\index.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="com.megster.cordova.bluetoothserial">
+						<ResourceMapSubtree name="www">
+							<NamedResource name="bluetoothSerial.js" uri="ms-resource://com.app.oovd/Files/www/plugins/com.megster.cordova.bluetoothserial/www/bluetoothSerial.js">
+								<Candidate type="Path">
+									<Value>www\plugins\com.megster.cordova.bluetoothserial\www\bluetoothSerial.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="com.msopentech.websql">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="WebSqlProxy.js" uri="ms-resource://com.app.oovd/Files/www/plugins/com.msopentech.websql/src/windows/WebSqlProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\com.msopentech.websql\src\windows\WebSqlProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="WebSQL.js" uri="ms-resource://com.app.oovd/Files/www/plugins/com.msopentech.websql/www/WebSQL.js">
+								<Candidate type="Path">
+									<Value>www\plugins\com.msopentech.websql\www\WebSQL.js</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="Database.js" uri="ms-resource://com.app.oovd/Files/www/plugins/com.msopentech.websql/www/windows/Database.js">
+									<Candidate type="Path">
+										<Value>www\plugins\com.msopentech.websql\www\windows\Database.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="SqlTransaction.js" uri="ms-resource://com.app.oovd/Files/www/plugins/com.msopentech.websql/www/windows/SqlTransaction.js">
+									<Candidate type="Path">
+										<Value>www\plugins\com.msopentech.websql\www\windows\SqlTransaction.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="org.apache.cordova.console">
+						<ResourceMapSubtree name="www">
+							<NamedResource name="console-via-logger.js" uri="ms-resource://com.app.oovd/Files/www/plugins/org.apache.cordova.console/www/console-via-logger.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.console\www\console-via-logger.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="logger.js" uri="ms-resource://com.app.oovd/Files/www/plugins/org.apache.cordova.console/www/logger.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.console\www\logger.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="org.apache.cordova.inappbrowser">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="InAppBrowserProxy.js" uri="ms-resource://com.app.oovd/Files/www/plugins/org.apache.cordova.inappbrowser/src/windows/InAppBrowserProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="inappbrowser.js" uri="ms-resource://com.app.oovd/Files/www/plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

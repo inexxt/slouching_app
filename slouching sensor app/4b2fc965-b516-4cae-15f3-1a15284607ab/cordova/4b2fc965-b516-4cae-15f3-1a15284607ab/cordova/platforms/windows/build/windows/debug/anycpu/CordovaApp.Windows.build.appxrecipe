@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JACEK-CHRONOS</Machine>
+    <WindowsUser>Jacek</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>com.app.oovd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\plugins\com.msopentech.websql\Community.CsharpSqlite.SQLiteClient.WinRT.dll">
+      <PackagePath>Community.CsharpSqlite.SQLiteClient.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\plugins\com.msopentech.websql\Community.CsharpSqlite.WinRT.dll">
+      <PackagePath>Community.CsharpSqlite.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\plugins\com.msopentech.websql\System.Data.Ersatz.WinRT.dll">
+      <PackagePath>System.Data.Ersatz.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\plugins\com.msopentech.websql\SQLite.Proxy.winmd">
+      <PackagePath>SQLite.Proxy.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\art\l0_SugPLvW1420NTivB">
+      <PackagePath>www\art\l0_SugPLvW1420NTivB</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\art\l0_U4TW4hNHINP2BjrR">
+      <PackagePath>www\art\l0_U4TW4hNHINP2BjrR</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\art\l0_ZN3pVUS145shUZZV">
+      <PackagePath>www\art\l0_ZN3pVUS145shUZZV</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\art\l0_U4TW4hNHINP2BjrR.m4a">
+      <PackagePath>www\art\l0_U4TW4hNHINP2BjrR.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\browser.js">
+      <PackagePath>www\browser.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\com.msopentech.websql\src\windows\WebSqlProxy.js">
+      <PackagePath>www\plugins\com.msopentech.websql\src\windows\WebSqlProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\com.msopentech.websql\www\WebSQL.js">
+      <PackagePath>www\plugins\com.msopentech.websql\www\WebSQL.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\com.msopentech.websql\www\windows\Database.js">
+      <PackagePath>www\plugins\com.msopentech.websql\www\windows\Database.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\com.msopentech.websql\www\windows\SqlTransaction.js">
+      <PackagePath>www\plugins\com.msopentech.websql\www\windows\SqlTransaction.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\org.apache.cordova.console\www\console-via-logger.js">
+      <PackagePath>www\plugins\org.apache.cordova.console\www\console-via-logger.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\org.apache.cordova.console\www\logger.js">
+      <PackagePath>www\plugins\org.apache.cordova.console\www\logger.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js">
+      <PackagePath>www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js">
+      <PackagePath>www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\precompiled.js">
+      <PackagePath>www\precompiled.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\runtime.js">
+      <PackagePath>www\runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\browsers.html">
+      <PackagePath>www\browsers.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\error.html">
+      <PackagePath>www\error.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\cordovaPlugins.json">
+      <PackagePath>www\cordovaPlugins.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\www\default.css">
+      <PackagePath>www\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\build\windows\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

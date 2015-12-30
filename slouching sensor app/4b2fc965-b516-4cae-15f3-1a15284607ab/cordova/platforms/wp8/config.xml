@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.app.oovd" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="BluetoothSerial">
+        <param name="wp-package" value="BluetoothSerial" />
+    </feature>
+    <feature name="WebSql">
+        <param name="wp-package" value="WebSql" />
+    </feature>
+    <feature name="Console">
+        <param name="wp-package" value="DebugConsole" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="wp-package" value="InAppBrowser" />
+    </feature>
+    <name>Slouch Sensor</name>
+    <description>
+    </description>
+    <icon density="mdpi" height="57" src="res/icon.png" width="57" />
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="windows-target-version" value="8.1" />
+</widget>

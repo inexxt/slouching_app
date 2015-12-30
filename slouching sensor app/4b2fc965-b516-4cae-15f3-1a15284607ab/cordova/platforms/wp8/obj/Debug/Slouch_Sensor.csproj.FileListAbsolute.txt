@@ -1,0 +1,16 @@
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\com.app.oovd.dll
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\com.app.oovd.pdb
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\Bin\Debug\Community.CsharpSqlite.WinPhone.dll
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\Slouch_Sensor.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\com.app.oovd.g.resources
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\com.app.oovd.dll
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\com.app.oovd.pdb
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\wp8\obj\Debug\XapCacheFile.xml

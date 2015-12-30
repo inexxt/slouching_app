@@ -1,0 +1,61 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"BluetoothSerial\"><param name=\"wp-package\" value=\"BluetoothSerial\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"WebSql\"><param name=\"wp-package\" value=\"WebSql\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Console\"><param name=\"wp-package\" value=\"DebugConsole\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"InAppBrowser\"><param name=\"wp-package\" value=\"InAppBrowser\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "Properties/WMAppManifest.xml": {
+                "parents": {
+                    "/Deployment/App/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_PROXIMITY\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_NETWORKING\" />",
+                            "count": 2
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.megster.cordova.bluetoothserial": {
+            "PACKAGE_NAME": "{7809c7b0-df1d-11e4-a6cd-9519f4900389}"
+        },
+        "com.msopentech.websql": {
+            "PACKAGE_NAME": "{7809c7b0-df1d-11e4-a6cd-9519f4900389}"
+        },
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "{7809c7b0-df1d-11e4-a6cd-9519f4900389}"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "{7809c7b0-df1d-11e4-a6cd-9519f4900389}"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,26 @@
+2. dangerous sleepness (like car driver, especially the truck drivers, which are often tired and sleepy, or people at responsible jobs
+crane
+truck driver
+train operator)
+3. healthy, straight posture
+4. fainting (everyone sitting alone)
+5. dangerous diseases (heart attack, stroke) - especially elderly people, can be monitored by medical staff/family
+
+
+---
+
+Idea of connecting sensor to a phone
+How the sensor looks like, where is attached
+How the phone looks like (that it's multiplatform, whoa)
+How it all works together (these all waves and stuff)
+
+Summing up: the collaboration with MSR
+who will benefit
+what's in the pack (sensor, app)
+
+Final of idea:
+Make the world and people safer and stuff
+
+---
+
+End of presentation

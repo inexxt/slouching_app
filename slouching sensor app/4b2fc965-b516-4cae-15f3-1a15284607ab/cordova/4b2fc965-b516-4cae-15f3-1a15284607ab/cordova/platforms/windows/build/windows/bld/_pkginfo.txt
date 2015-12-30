@@ -1,0 +1,1 @@
+C:\Users\Jacek\Desktop\slouching sensor app\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\4b2fc965-b516-4cae-15f3-1a15284607ab\cordova\platforms\windows\AppPackages\CordovaApp.Windows_0.0.1.0_anycpu_debug_Test\CordovaApp.Windows_0.0.1.0_anycpu_debug.appx

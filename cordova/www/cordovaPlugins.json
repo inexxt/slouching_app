@@ -1,0 +1,7 @@
+{
+  "org.apache.cordova.console": "*",
+  "com.msopentech.websql": "*",
+  "org.apache.cordova.inappbrowser": "*",
+  "org.apache.cordova.media": "*",
+  "com.megster.cordova.bluetoothserial": "*"
+}
